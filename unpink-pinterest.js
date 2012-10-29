@@ -1,5 +1,4 @@
 (function() {
-
 	//go away logo
 	//var pinLogo = document.getElementById("Pinterest");
 	//pinLogo.style.background = "transparent";
@@ -28,5 +27,4 @@
 	for (var i = 0; i < convo.length; i++) {
 		convo[i].style.background = "#F0F0F2";
 	}
-
 })()
